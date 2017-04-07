@@ -1,0 +1,22 @@
+{
+  "name": "angularApp",
+  "homepage": "https://github.com/gabtec/angularApp",
+  "authors": [
+    "Gabriel Martins <gabtec@sapo.pt>"
+  ],
+  "description": "Base Angular App for new projects",
+  "main": "index.html",
+  "license": "UNLICENSED",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}
