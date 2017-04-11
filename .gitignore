@@ -1,3 +1,7 @@
+# This file CREDITS TO: John Papa
+# FOUND AT: https://github.com/johnpapa/gulp-patterns/blob/master/.gitignore
+#
+
 # Ignore Visual Studio  Project #
 ###################
 *.user
